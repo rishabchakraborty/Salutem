@@ -1,5 +1,5 @@
 # Salutem
-Salutem is a project by Sigil Wen and Rishab Chakraborty that originated at The Knowledge Society IoT Hackathon. https://salutem.ca/
+Salutem is a project by Sigil Wen and Rishab Chakraborty that originated at The Knowledge Society IoT Hackathon. This repository contains a collection of code that will be run on a Salutem's prototype V 1.0, powered by a Raspberry pi 3 B+, combining machine learning and computer vision algorithms with the built in Biomarker sensors. Additionally, /docs contains the code for our website https://salutem.ca/
 
 
 Healthcare should be a basic right for everyone. Yet around the world, billions of people are unable to access proper medical attention whether it is because of socioeconomic conditions, overcrowded hospitals, or location barriers. The current solution is telemedicine, which connects remote patients with online doctors. But similar to hospitals, online doctors are scarce and struggle to provide accurate treatments and diagnoses because they lack quantitative data that a clinic visit would collect. 
