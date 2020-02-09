@@ -8,4 +8,4 @@ Imagine an alternative solution with the accuracy of clinics and better accessib
 
 Currently, Salutem is working towards improving telemedicine within Canada, helping rural and impoverished communities receive healthcare. Within Canada alone, Salutem can make telemedicine a viable option and give healthcare accessibility to the over 5 million Canadians who don’t have access to regular doctors in rural and impoverished areas. Salutem alleviates doctors from unnecessary inefficiencies, allowing them to specialize in treatments and clinics save time. Let’s build a future where healthcare is accessible to everyone. 
 
-![](docs/hardware.png)
+![alt text](docs/complete.png)
